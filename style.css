@@ -1,0 +1,13 @@
+/*carousel*/
+#carousel-image{
+    height:600px;
+} 
+
+
+/*BODY*/
+.container{
+   margin:auto;
+}
+.card{
+    margin:20px 10px;
+}
